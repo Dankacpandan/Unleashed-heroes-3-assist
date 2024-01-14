@@ -1,0 +1,2 @@
+def Battle():
+    print("Ok...")
