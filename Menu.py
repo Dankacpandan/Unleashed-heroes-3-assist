@@ -2,7 +2,6 @@ def Menu(options):
     while True:
         print('''Choose mode you want to pick:
 1. Battle
-2. Logistics
 0. Exit
     ''')
         try:
